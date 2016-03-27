@@ -6,10 +6,14 @@
     float: right;
 }
 
-.bold{
+.bold {
   font-weight: bold;
 }
 
-.blue{
+.blue {
   /*write the code to make the font blue*/
+}
+
+.my-class {
+  background-color: #FF0000;
 }
