@@ -1,6 +1,13 @@
 $( document ).ready(function()
 {
-    //All of your code gets put inside this function
+
+
+    $("#contact").click(function(){
+
+      console.log("this is a log");
+      alert('this pops up on click');
+
+    });
 
 
 
