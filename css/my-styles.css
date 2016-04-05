@@ -1,22 +1,4 @@
-.soundcloud-style{
-  background-color: #f50;
-  border-color: #f50;
-  color: #fff;
-}
-
-
-.pull-left {
-    float: left;
-}
-
-.pull-right {
-    float: right;
-}
-
-.bold{
-  font-weight: normal;
-}
-
-.blue{
-  /*write the code to make the font blue*/
+.jumbotron-black {
+  background: black;
+  color: white;
 }
